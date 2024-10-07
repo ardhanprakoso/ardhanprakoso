@@ -48,7 +48,7 @@ Feel free to get in touch if you'd like to collaborate or just chat about design
 
 - **Email**: [ardhan.prakoso@gmail.com](mailto:ardhan.prakoso@gmail.com)
 - **GitHub**: [github.com/ardhanprakoso](https://github.com/ardhanprakoso)
-- **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/ardhan-sindu-prakoso-547143161)
+- **LinkedIn**: [linkedin.com/in/ardhan-sindu-prakoso](https://www.linkedin.com/in/ardhan-sindu-prakoso-547143161)
 
 ---
 
