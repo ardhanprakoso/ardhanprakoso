@@ -38,9 +38,8 @@ Hi there! I'm Ardhan Prakoso, a fresh graduate passionate about blending **progr
 
 ## 🌱 What I'm Learning
 I'm constantly learning and improving my skills. Here are some areas I'm currently focusing on:
-- Full-Stack Development (MERN Stack)
-- Advanced UI/UX Design Techniques
-- Mobile Development (React Native)
+- **SASS** for advanced CSS techniques
+- **Flutter** for mobile app development
 
 ---
 
